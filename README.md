@@ -1,4 +1,4 @@
-iPhone-App : Yelp (BookMarkSearchMap)
+iOS-App : Yelp
 =====================================
 
 
